@@ -16,3 +16,4 @@
 
 ### Free Courses
 - [Docker and Kubernetes](https://www.freecodecamp.org/news/course-on-docker-and-kubernetes/)
+- [Data Structures](https://www.youtube.com/watch?v=RBSGKlAvoiM)
