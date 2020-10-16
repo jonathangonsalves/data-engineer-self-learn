@@ -13,3 +13,6 @@
 ](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 ### APIs
 - [PIX](https://github.com/entria/awesome-pix#pix-api)
+
+### Free Courses
+- [Docker and Kubernetes](https://www.freecodecamp.org/news/course-on-docker-and-kubernetes/)
