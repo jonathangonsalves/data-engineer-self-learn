@@ -19,3 +19,7 @@
 - [Data Structures](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 ### Data Engineering's Path
 - [Awesome Data Engineering](https://awesomedataengineering.com/)
+
+
+## Tutorials
+- [Install Kafka](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-debian-10-pt)
