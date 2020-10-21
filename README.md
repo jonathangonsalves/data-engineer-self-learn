@@ -23,3 +23,4 @@
 
 ## Tutorials
 - [Install Kafka](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-debian-10-pt)
+- [Python QuickStart Kafka](https://towardsdatascience.com/kafka-python-explained-in-10-lines-of-code-800e3e07dad1)
