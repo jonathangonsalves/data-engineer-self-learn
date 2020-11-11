@@ -24,3 +24,6 @@
 ## Tutorials
 - [Install Kafka](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-debian-10-pt)
 - [Python QuickStart Kafka](https://towardsdatascience.com/kafka-python-explained-in-10-lines-of-code-800e3e07dad1)
+- [Airflow | Kubernetes | Terraform | AWS](https://medium.com/typeforms-engineering-blog/deploy-airflow-1-10-10-in-kubernetes-using-terraform-and-helm-2476f03f07d0)
+- [JupyterHub on Kubernetes (Doc)](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
+- [JupyterHub on Kubernetes (Article)](https://medium.com/pangeo/terraform-jupyterhub-aws-34f2b725f4fd)
